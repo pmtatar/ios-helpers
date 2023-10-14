@@ -7,6 +7,8 @@
 
 import XCTest
 
-final class ImageLoaderUnitTests: XCTestCase {
+@testable import ImageLoader
 
+final class ImageLoaderUnitTests: XCTestCase {
+    func testDemo() {}
 }
